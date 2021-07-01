@@ -1,7 +1,4 @@
-Some examples of machine learning projects within a particle physics context.
+Some examples of machine learning projects used within a particle physics context.
 
-The first project uses a convolutional neural network to classify simulated particle tracks into
-different species. 
-
-The second project uses the XGBoost Boosted Decision Tree algorithm to separate signal from combinatorial
-backgrounds in large particle physics data sets.
+Two projects are included within the repo. The first  uses a convolutional neural network to classify simulated particle tracks into
+different species. The second  uses the XGBoost Boosted Decision Tree algorithm to separate signal from backgrounds in large particle physics data sets.
